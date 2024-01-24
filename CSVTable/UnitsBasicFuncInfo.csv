@@ -1,0 +1,10 @@
+---,FuncName,IsEnable,ClassType
+Example,"Example","False","Public"
+MoveUp,"MoveUp","True","None"
+MoveDown,"MoveDown","True","None"
+MoveLeft,"MoveLeft","True","None"
+MoveRight,"MoveRight","True","None"
+Defend,"Defend","True","None"
+Dismiss,"Dismiss","True","None"
+Interact,"Interact","True","None"
+Consruct,"Consruct","True","None"
